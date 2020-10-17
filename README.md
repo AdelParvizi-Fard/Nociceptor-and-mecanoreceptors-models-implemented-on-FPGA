@@ -1,1 +1,1 @@
-# Nociceptor-and-mecanoreceptors-models-implemented-on-FPGA
+# Nociceptor-and-mecanoreceptor-models-implemented-on-FPGA
